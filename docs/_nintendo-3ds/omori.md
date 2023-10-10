@@ -1,5 +1,5 @@
 ---
-author: Dekano
+author: Rayhan
 category:
 - omori
 - indie
@@ -29,5 +29,5 @@ systems:
 - Nintendo 3DS
 title: OMORI
 updated: '2023-07-05T15:00:39Z'
-version: v1.0.1
+version: v1.0.2
 ---

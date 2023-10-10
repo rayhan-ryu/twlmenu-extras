@@ -1,5 +1,5 @@
 ---
-author: Dekano
+author: Rayhan
 category:
 - pokemon
 - pokemon-mystery-dungeon
@@ -29,5 +29,5 @@ systems:
 - Nintendo 3DS
 title: Pokémon Mystery Dungeon - Explorer of Sky
 updated: '2023-07-05T15:00:40Z'
-version: v1.0.1
+version: v1.0.2
 ---
